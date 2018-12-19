@@ -10,7 +10,9 @@
         android:id="@+id/lvItems"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@id/btnAddItems"></ListView>
+        android:layout_above="@id/btnAddItems">
+    </ListView>
+
     <Button
         android:id="@+id/btnAddItems"
         android:layout_width="wrap_content"
